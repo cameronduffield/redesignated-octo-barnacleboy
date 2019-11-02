@@ -1,1 +1,2 @@
 # redesignated-octo-barnacleboy
+My name is Cameron D., age 21 from Lawton, MI. I graduated high school in 2016 from Lawton Community Schools on rank #1, with a GPA of 3.96~ish and a ton of honors points (not to mention college credits that were free to me thanks to the generous contributions of American Taxpayers). I'm on GitHub intent on leaning some of the basics of BASIC, as well as the implications and intricacies of different scripting languages and platforms. Thanks!
